@@ -1,7 +1,7 @@
 # Ruang Perkenalan Diri (A-Frame)
 
-- **Nama:** NAMA ANDA
-- **NIM:** NIM ANDA
+- **Nama:** RAJA HALOMOAN HARAHAP
+- **NIM:**2309020349
 - **Link demo (GitHub Pages):** https://USERNAME.github.io/NAMA-REPO/
 
 ## Deskripsi
